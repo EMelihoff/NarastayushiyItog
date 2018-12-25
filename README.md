@@ -1,0 +1,2 @@
+# NarastayushiyItog
+Нарастающий итог запросом
